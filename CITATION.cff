@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "REACT-MAC: Lightweight MAC-Layer Mitigation of Selfish Backoff Behavior"
+authors:
+  - family-names: Lohi
+    given-names: Chanchal
+year: 2025
+license: MIT
